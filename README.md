@@ -1,4 +1,4 @@
-# Adafruit-VEML7700-PCB
+# Adafruit-INA260-PCB
 PCB files for the Adafruit INA260
 
 Format is EagleCAD schematic and board layout
